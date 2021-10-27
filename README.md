@@ -48,6 +48,8 @@ When closed, by pressing q when prompted, this will crate a .json file with its 
   
 ## Usage
 
+   #### Note: The game must be windowed, and set to 1920x1200.
+
     1. Start New World, go to a market.
     2. Open the market and select what you want scraped (select all markets, all items.)
     3. Start the scrapper.
